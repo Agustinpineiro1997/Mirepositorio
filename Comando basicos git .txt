@@ -1,0 +1,5 @@
+git clone HTTP - Traer repositorio
+git checkout - Cambiar de rama
+Git checkout -b Cambiar de rama y crear otra
+Git Status - Te dice en que rama estas
+Git Add "texto" o git add . (para todo)
